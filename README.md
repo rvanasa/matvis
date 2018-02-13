@@ -9,4 +9,6 @@ This is a very, very new project, so right now I just have a few scripts to rend
     matvis2ni - N-dimensional rotations flattened into 2D with an imaginary Z axis
     matvisni - N-dimensional rotations flattened into 3D with imaginary offset points
 
+Note: real numbers are blue, while imaginary points show up as orange. 
+
 I'll be adding new concepts/features as time goes on. Have fun!

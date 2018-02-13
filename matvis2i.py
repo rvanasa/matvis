@@ -13,8 +13,8 @@ def project_3d(arr):
 
 
 matrix = np.matrix([
-    [-1, 0],
-    [0, -1],
+    [0, -1j],
+    [1, 0],
 ])
 
 print(lin.det(matrix))
