@@ -4,8 +4,6 @@ from scipy import linalg as lin
 from matplotlib import pyplot as plt
 from matplotlib import animation
 
-from cirquit import *
-
 matrix = np.matrix([
     [0, -1j],
     [1, 0],

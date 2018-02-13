@@ -5,8 +5,6 @@ from matplotlib import pyplot as plt
 from matplotlib import animation
 import mpl_toolkits.mplot3d.axes3d as p3
 
-from cirquit import *
-
 
 def project_3d(arr):
     return [*arr.real[view_dims], arr.imag[0]]
